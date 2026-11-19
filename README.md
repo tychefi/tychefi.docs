@@ -24,3 +24,9 @@
 ## 风险指数
 
 各产品的 `risk` 字段维护内部指数（1.0～5.0，支持一位小数，未评估为 null）、提供方、更新时间和五个风险维度。前端以刻度和文字同时展示，详情可展开具体因素；定义见 [风险分级方法 / Rating approach](RISK-METHODOLOGY.md)。评级不表示亏损概率，也不按收益率自动生成。
+
+## 产品级策略团队
+
+专业理财团队、策略执行方、合作经历及历史表现只能在对应产品中披露，不能上升为全平台或某一产品类别的统一介绍。当前四个固收产品已分别确认适用同一段套利团队背景，并各自在中英文文件中维护；新产品不得自动继承。TycheFi 的平台管理与固收兑付责任，和专业团队的策略执行职责分别说明。
+
+Professional strategy teams, execution arrangements, partnership history and historical performance are disclosed per product, without platform-wide or category-wide inheritance. The same arbitrage background has been explicitly confirmed for the four current fixed-income products and is maintained in each product's bilingual files. A new product must disclose its own arrangements. TycheFi's platform management and repayment obligations are distinct from strategy execution.

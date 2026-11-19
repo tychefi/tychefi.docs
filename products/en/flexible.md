@@ -10,9 +10,9 @@ The explanation covers liquidity, strategy and markets, custody and conversion, 
 
 Subscribe with USDT to a Vault managed by the TycheFi team. There is no fixed lock-up and no token: principal and income belong to each deposit's original account. Full-deposit redemption can be requested anytime. The product is available on FLON Testnet using test assets only; the on-chain subscription switch determines availability.
 
-## Trading expertise and partnership
+## This product’s trading expertise and partnership
 
-According to the TycheFi team, its fixed-income strategies are executed by a **world-class arbitrage trader with 20 years of experience**, conducting long-running cross-market arbitrage between futures exchanges worldwide. The trader has worked with the team for **five years**. The team reports that the strategy's historical annualized returns have consistently remained at **10%–11%**.
+According to the TycheFi team, this product’s strategy is executed by a **world-class arbitrage trader with 20 years of experience**, conducting long-running cross-market arbitrage between futures exchanges worldwide. The trader has worked with the team for **five years**. The team reports that the strategy's historical annualized returns have consistently remained at **10%–11%**.
 
 This is team-provided strategy background and historical performance information, not this Vault's user net APR. Gross APR, management fees and user net APR follow the on-chain terms locked on subscription. Past performance does not indicate future returns.
 
