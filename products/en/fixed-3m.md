@@ -12,6 +12,12 @@ A **3-month lock-up**, with fundraising, a common accrual start and a common mat
 
 This is a FLON Testnet product using test assets only. Subscription requires both switches to be open, an eligible fundraising window and remaining capacity. A displayed quote does not make every series available.
 
+## Trading expertise and partnership
+
+According to the TycheFi team, its fixed-income strategies are executed by a **world-class arbitrage trader with 20 years of experience**, conducting long-running cross-market arbitrage between futures exchanges worldwide. The trader has worked with the team for **five years**. The team reports that the strategy's historical annualized returns have consistently remained at **10%–11%**.
+
+This is team-provided strategy background and historical performance information, not this Vault's user net APR. Gross APR, management fees and user net APR follow the on-chain terms locked on subscription. Past performance does not indicate future returns.
+
 ## Returns and fees
 
 The current template is **8% gross APR**, an annual management fee of **2% of principal**, and **6% monthly-mode net APR**. Daily mode receives 70% of net interest, equivalent to **4.2% net APR**. The fee is based on principal, not profits.
