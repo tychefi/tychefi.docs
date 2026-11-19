@@ -1,5 +1,11 @@
 # Tyche Fixed · 3M
 
+## Risk index
+
+**4.9 / 5**, an internal risk index supplied by TycheFi, near the higher-risk end. It is not a loss probability, drawdown estimate or independent rating, and is not calculated automatically from APR. Updated 2026-11-19.
+
+The explanation covers liquidity, strategy and markets, custody and conversion, repayment and loss allocation, and contracts and networks. See the [risk index approach](https://github.com/tychefi/tychefi.docs/blob/main/RISK-METHODOLOGY.md).
+
 ## Overview
 
 A **3-month lock-up**, with fundraising, a common accrual start and a common maturity for each series. Each series has its own fungible share token. **1 USDT of principal = 1 share token**, both with 6 decimals.

@@ -1,5 +1,11 @@
 # Tyche Flexible
 
+## Risk index
+
+**4.9 / 5**, an internal risk index supplied by TycheFi, near the higher-risk end. It is not a loss probability, drawdown estimate or independent rating, and is not calculated automatically from APR. Updated 2026-11-19.
+
+The explanation covers liquidity, strategy and markets, custody and conversion, repayment and loss allocation, and contracts and networks. See the [risk index approach](https://github.com/tychefi/tychefi.docs/blob/main/RISK-METHODOLOGY.md).
+
 ## Overview
 
 Subscribe with USDT to a Vault managed by the TycheFi team. There is no fixed lock-up and no token: principal and income belong to each deposit's original account. Full-deposit redemption can be requested anytime. The product is available on FLON Testnet using test assets only; the on-chain subscription switch determines availability.

@@ -1,5 +1,11 @@
 # Tyche Strategies
 
+## Risk index
+
+**Not rated**. No risk index has been supplied; this does not mean low risk. It is not a loss probability, drawdown estimate or independent rating, and is not calculated automatically from APR. Updated 2026-11-19.
+
+The explanation covers liquidity, strategy and markets, custody and conversion, repayment and loss allocation, and contracts and networks. See the [risk index approach](https://github.com/tychefi/tychefi.docs/blob/main/RISK-METHODOLOGY.md).
+
 ## Availability
 
 Dynamic yield Vaults are **in preparation: subscriptions, share issuance, trading and redemption are not open**. This page describes the agreed product form, not a live strategy, portfolio, fee schedule or return. No verifiable target APR, performance history or fixed lock-up is currently offered.

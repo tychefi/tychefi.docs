@@ -20,3 +20,7 @@
 应用构建使用固定提交快照，无需用户浏览器实时访问 GitHub；GitHub 中的未发布编辑不会自动改写线上产品说明。
 
 合约、权限、完整 PRD 及测试链部署证据继续存放于 [tyche.contracts/docs](https://github.com/tychefi/tyche.contracts/tree/main/docs)，不在本仓库重复维护实现说明。
+
+## 风险指数
+
+各产品的 `risk` 字段维护内部指数（1.0～5.0，支持一位小数，未评估为 null）、提供方、更新时间和五个风险维度。前端以刻度和文字同时展示，详情可展开具体因素；定义见 [风险分级方法 / Rating approach](RISK-METHODOLOGY.md)。评级不表示亏损概率，也不按收益率自动生成。

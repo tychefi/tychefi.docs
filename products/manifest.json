@@ -16,6 +16,72 @@
       "files": {
         "zh-CN": "products/zh-CN/flexible.md",
         "en": "products/en/flexible.md"
+      },
+      "risk": {
+        "level": 4.9,
+        "provider": "TycheFi",
+        "updatedAt": "2026-11-19",
+        "summary": {
+          "zh-CN": "固定收益条款不消除策略、链下托管及团队履约风险。",
+          "en": "Fixed-return terms do not remove strategy, off-chain custody or team performance risks."
+        },
+        "factors": [
+          {
+            "id": "liquidity",
+            "title": {
+              "zh-CN": "流动性",
+              "en": "Liquidity"
+            },
+            "description": {
+              "zh-CN": "可随时整笔申请赎回，最迟 336 小时到账；不是即时流动性。",
+              "en": "Full-deposit redemption may be requested anytime, with payment within 336 hours; liquidity is not instant."
+            }
+          },
+          {
+            "id": "strategy",
+            "title": {
+              "zh-CN": "策略与市场",
+              "en": "Strategy & market"
+            },
+            "description": {
+              "zh-CN": "期货套利仍有市场、保证金、执行和交易对手风险，不能视为无风险。",
+              "en": "Futures arbitrage still carries market, margin, execution and counterparty risks; it is not risk-free."
+            }
+          },
+          {
+            "id": "custody",
+            "title": {
+              "zh-CN": "托管与换汇",
+              "en": "Custody & conversion"
+            },
+            "description": {
+              "zh-CN": "可投资本金可能离开合约，兑换法币并由团队执行策略；存在链下托管和回拨风险。",
+              "en": "Investable principal may leave the contract and convert to fiat for team-run strategies, creating off-chain custody and returning-liquidity risks."
+            }
+          },
+          {
+            "id": "repayment",
+            "title": {
+              "zh-CN": "兑付与损失承担",
+              "en": "Repayment & loss allocation"
+            },
+            "description": {
+              "zh-CN": "Tyche 承担约定本金和净收益的补足责任，仍依赖其实际资金及履约能力。",
+              "en": "Tyche must cover the specified principal and net-return shortfalls, but repayment still depends on actual funding and ability to perform."
+            }
+          },
+          {
+            "id": "contract",
+            "title": {
+              "zh-CN": "合约与网络",
+              "en": "Contracts & networks"
+            },
+            "description": {
+              "zh-CN": "当前为测试链产品；存在合约、钱包和网络风险，不把测试通过视为安全审计。",
+              "en": "This is a testnet product with contract, wallet and network risks; passing tests is not a security audit."
+            }
+          }
+        ]
       }
     },
     {
@@ -32,6 +98,72 @@
       "files": {
         "zh-CN": "products/zh-CN/fixed-3m.md",
         "en": "products/en/fixed-3m.md"
+      },
+      "risk": {
+        "level": 4.9,
+        "provider": "TycheFi",
+        "updatedAt": "2026-11-19",
+        "summary": {
+          "zh-CN": "固定收益条款不消除策略、链下托管及团队履约风险。",
+          "en": "Fixed-return terms do not remove strategy, off-chain custody or team performance risks."
+        },
+        "factors": [
+          {
+            "id": "liquidity",
+            "title": {
+              "zh-CN": "流动性",
+              "en": "Liquidity"
+            },
+            "description": {
+              "zh-CN": "到期前不能向 Vault 兑付本金；退出需要转让给买方，成交与价格不保证。",
+              "en": "Principal cannot be redeemed from the Vault before maturity; early exit requires a buyer, with no guaranteed execution or price."
+            }
+          },
+          {
+            "id": "strategy",
+            "title": {
+              "zh-CN": "策略与市场",
+              "en": "Strategy & market"
+            },
+            "description": {
+              "zh-CN": "期货套利仍有市场、保证金、执行和交易对手风险，不能视为无风险。",
+              "en": "Futures arbitrage still carries market, margin, execution and counterparty risks; it is not risk-free."
+            }
+          },
+          {
+            "id": "custody",
+            "title": {
+              "zh-CN": "托管与换汇",
+              "en": "Custody & conversion"
+            },
+            "description": {
+              "zh-CN": "可投资本金可能离开合约，兑换法币并由团队执行策略；存在链下托管和回拨风险。",
+              "en": "Investable principal may leave the contract and convert to fiat for team-run strategies, creating off-chain custody and returning-liquidity risks."
+            }
+          },
+          {
+            "id": "repayment",
+            "title": {
+              "zh-CN": "兑付与损失承担",
+              "en": "Repayment & loss allocation"
+            },
+            "description": {
+              "zh-CN": "Tyche 承担约定本金和净收益的补足责任，仍依赖其实际资金及履约能力。",
+              "en": "Tyche must cover the specified principal and net-return shortfalls, but repayment still depends on actual funding and ability to perform."
+            }
+          },
+          {
+            "id": "contract",
+            "title": {
+              "zh-CN": "合约与网络",
+              "en": "Contracts & networks"
+            },
+            "description": {
+              "zh-CN": "当前为测试链产品；存在合约、钱包和网络风险，不把测试通过视为安全审计。",
+              "en": "This is a testnet product with contract, wallet and network risks; passing tests is not a security audit."
+            }
+          }
+        ]
       }
     },
     {
@@ -48,6 +180,72 @@
       "files": {
         "zh-CN": "products/zh-CN/fixed-6m.md",
         "en": "products/en/fixed-6m.md"
+      },
+      "risk": {
+        "level": 4.9,
+        "provider": "TycheFi",
+        "updatedAt": "2026-11-19",
+        "summary": {
+          "zh-CN": "固定收益条款不消除策略、链下托管及团队履约风险。",
+          "en": "Fixed-return terms do not remove strategy, off-chain custody or team performance risks."
+        },
+        "factors": [
+          {
+            "id": "liquidity",
+            "title": {
+              "zh-CN": "流动性",
+              "en": "Liquidity"
+            },
+            "description": {
+              "zh-CN": "到期前不能向 Vault 兑付本金；退出需要转让给买方，成交与价格不保证。",
+              "en": "Principal cannot be redeemed from the Vault before maturity; early exit requires a buyer, with no guaranteed execution or price."
+            }
+          },
+          {
+            "id": "strategy",
+            "title": {
+              "zh-CN": "策略与市场",
+              "en": "Strategy & market"
+            },
+            "description": {
+              "zh-CN": "期货套利仍有市场、保证金、执行和交易对手风险，不能视为无风险。",
+              "en": "Futures arbitrage still carries market, margin, execution and counterparty risks; it is not risk-free."
+            }
+          },
+          {
+            "id": "custody",
+            "title": {
+              "zh-CN": "托管与换汇",
+              "en": "Custody & conversion"
+            },
+            "description": {
+              "zh-CN": "可投资本金可能离开合约，兑换法币并由团队执行策略；存在链下托管和回拨风险。",
+              "en": "Investable principal may leave the contract and convert to fiat for team-run strategies, creating off-chain custody and returning-liquidity risks."
+            }
+          },
+          {
+            "id": "repayment",
+            "title": {
+              "zh-CN": "兑付与损失承担",
+              "en": "Repayment & loss allocation"
+            },
+            "description": {
+              "zh-CN": "Tyche 承担约定本金和净收益的补足责任，仍依赖其实际资金及履约能力。",
+              "en": "Tyche must cover the specified principal and net-return shortfalls, but repayment still depends on actual funding and ability to perform."
+            }
+          },
+          {
+            "id": "contract",
+            "title": {
+              "zh-CN": "合约与网络",
+              "en": "Contracts & networks"
+            },
+            "description": {
+              "zh-CN": "当前为测试链产品；存在合约、钱包和网络风险，不把测试通过视为安全审计。",
+              "en": "This is a testnet product with contract, wallet and network risks; passing tests is not a security audit."
+            }
+          }
+        ]
       }
     },
     {
@@ -64,6 +262,72 @@
       "files": {
         "zh-CN": "products/zh-CN/fixed-12m.md",
         "en": "products/en/fixed-12m.md"
+      },
+      "risk": {
+        "level": 4.9,
+        "provider": "TycheFi",
+        "updatedAt": "2026-11-19",
+        "summary": {
+          "zh-CN": "固定收益条款不消除策略、链下托管及团队履约风险。",
+          "en": "Fixed-return terms do not remove strategy, off-chain custody or team performance risks."
+        },
+        "factors": [
+          {
+            "id": "liquidity",
+            "title": {
+              "zh-CN": "流动性",
+              "en": "Liquidity"
+            },
+            "description": {
+              "zh-CN": "到期前不能向 Vault 兑付本金；退出需要转让给买方，成交与价格不保证。",
+              "en": "Principal cannot be redeemed from the Vault before maturity; early exit requires a buyer, with no guaranteed execution or price."
+            }
+          },
+          {
+            "id": "strategy",
+            "title": {
+              "zh-CN": "策略与市场",
+              "en": "Strategy & market"
+            },
+            "description": {
+              "zh-CN": "期货套利仍有市场、保证金、执行和交易对手风险，不能视为无风险。",
+              "en": "Futures arbitrage still carries market, margin, execution and counterparty risks; it is not risk-free."
+            }
+          },
+          {
+            "id": "custody",
+            "title": {
+              "zh-CN": "托管与换汇",
+              "en": "Custody & conversion"
+            },
+            "description": {
+              "zh-CN": "可投资本金可能离开合约，兑换法币并由团队执行策略；存在链下托管和回拨风险。",
+              "en": "Investable principal may leave the contract and convert to fiat for team-run strategies, creating off-chain custody and returning-liquidity risks."
+            }
+          },
+          {
+            "id": "repayment",
+            "title": {
+              "zh-CN": "兑付与损失承担",
+              "en": "Repayment & loss allocation"
+            },
+            "description": {
+              "zh-CN": "Tyche 承担约定本金和净收益的补足责任，仍依赖其实际资金及履约能力。",
+              "en": "Tyche must cover the specified principal and net-return shortfalls, but repayment still depends on actual funding and ability to perform."
+            }
+          },
+          {
+            "id": "contract",
+            "title": {
+              "zh-CN": "合约与网络",
+              "en": "Contracts & networks"
+            },
+            "description": {
+              "zh-CN": "当前为测试链产品；存在合约、钱包和网络风险，不把测试通过视为安全审计。",
+              "en": "This is a testnet product with contract, wallet and network risks; passing tests is not a security audit."
+            }
+          }
+        ]
       }
     },
     {
@@ -80,6 +344,72 @@
       "files": {
         "zh-CN": "products/zh-CN/dynamic.md",
         "en": "products/en/dynamic.md"
+      },
+      "risk": {
+        "level": null,
+        "provider": "TycheFi",
+        "updatedAt": "2026-11-19",
+        "summary": {
+          "zh-CN": "净值型策略由持有人承担回撤；具体策略和流动性安排尚未披露。",
+          "en": "NAV-based holders bear drawdowns; specific strategies and liquidity terms remain undisclosed."
+        },
+        "factors": [
+          {
+            "id": "liquidity",
+            "title": {
+              "zh-CN": "流动性",
+              "en": "Liquidity"
+            },
+            "description": {
+              "zh-CN": "锁仓、申赎窗口和排队安排未确定，目前不能评估可退出性。",
+              "en": "Lock-up, redemption windows and queues are not finalized; exit liquidity cannot yet be assessed."
+            }
+          },
+          {
+            "id": "strategy",
+            "title": {
+              "zh-CN": "策略与市场",
+              "en": "Strategy & market"
+            },
+            "description": {
+              "zh-CN": "策略、资产范围与估值来源待披露，不能用目标收益代替风险评估。",
+              "en": "Strategies, asset scope and valuation sources remain to be disclosed; a target return cannot replace risk assessment."
+            }
+          },
+          {
+            "id": "custody",
+            "title": {
+              "zh-CN": "托管与换汇",
+              "en": "Custody & conversion"
+            },
+            "description": {
+              "zh-CN": "资产托管、估值和运营安排须在开放前披露，目前待定。",
+              "en": "Asset custody, valuation and operating arrangements must be disclosed before launch and remain undecided."
+            }
+          },
+          {
+            "id": "repayment",
+            "title": {
+              "zh-CN": "兑付与损失承担",
+              "en": "Repayment & loss allocation"
+            },
+            "description": {
+              "zh-CN": "收益和亏损计入净值，由持有人承担本金回撤，不适用固收补足责任。",
+              "en": "Gains and losses change NAV; holders bear principal drawdowns, without the fixed-income shortfall obligation."
+            }
+          },
+          {
+            "id": "contract",
+            "title": {
+              "zh-CN": "合约与网络",
+              "en": "Contracts & networks"
+            },
+            "description": {
+              "zh-CN": "当前为测试链产品；存在合约、钱包和网络风险，不把测试通过视为安全审计。",
+              "en": "This is a testnet product with contract, wallet and network risks; passing tests is not a security audit."
+            }
+          }
+        ]
       }
     }
   ]
