@@ -1,0 +1,86 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-19",
+  "products": [
+    {
+      "id": "flex",
+      "articleId": "vault-flexible",
+      "title": {
+        "zh-CN": "Tyche Flexible · 灵活固收",
+        "en": "Tyche Flexible"
+      },
+      "description": {
+        "zh-CN": "无固定锁仓期限，不发行 Token，按笔记录本金和收益。",
+        "en": "Individual deposits with no fixed lock-up and no token."
+      },
+      "files": {
+        "zh-CN": "products/zh-CN/flexible.md",
+        "en": "products/en/flexible.md"
+      }
+    },
+    {
+      "id": "3m",
+      "articleId": "vault-fixed-3m",
+      "title": {
+        "zh-CN": "Tyche Fixed · 3M · 3个月",
+        "en": "Tyche Fixed · 3M"
+      },
+      "description": {
+        "zh-CN": "3 个月锁仓，按期次发行份额；当前月付参考净年化 6%。",
+        "en": "3-month series shares; current monthly-mode reference net APR 6%."
+      },
+      "files": {
+        "zh-CN": "products/zh-CN/fixed-3m.md",
+        "en": "products/en/fixed-3m.md"
+      }
+    },
+    {
+      "id": "6m",
+      "articleId": "vault-fixed-6m",
+      "title": {
+        "zh-CN": "Tyche Fixed · 6M · 6个月",
+        "en": "Tyche Fixed · 6M"
+      },
+      "description": {
+        "zh-CN": "6 个月锁仓，按期次发行份额；当前月付参考净年化 7%。",
+        "en": "6-month series shares; current monthly-mode reference net APR 7%."
+      },
+      "files": {
+        "zh-CN": "products/zh-CN/fixed-6m.md",
+        "en": "products/en/fixed-6m.md"
+      }
+    },
+    {
+      "id": "1y",
+      "articleId": "vault-fixed-12m",
+      "title": {
+        "zh-CN": "Tyche Fixed · 12M · 12个月",
+        "en": "Tyche Fixed · 12M"
+      },
+      "description": {
+        "zh-CN": "12 个月锁仓，按期次发行份额；当前月付参考净年化 8%。",
+        "en": "12-month series shares; current monthly-mode reference net APR 8%."
+      },
+      "files": {
+        "zh-CN": "products/zh-CN/fixed-12m.md",
+        "en": "products/en/fixed-12m.md"
+      }
+    },
+    {
+      "id": "dynamic",
+      "articleId": "vault-dynamic",
+      "title": {
+        "zh-CN": "Tyche Strategies · 动态收益",
+        "en": "Tyche Strategies"
+      },
+      "description": {
+        "zh-CN": "净值型份额，持有人承担收益波动和回撤；尚未开放。",
+        "en": "NAV-based shares with gains and drawdowns; not open."
+      },
+      "files": {
+        "zh-CN": "products/zh-CN/dynamic.md",
+        "en": "products/en/dynamic.md"
+      }
+    }
+  ]
+}
