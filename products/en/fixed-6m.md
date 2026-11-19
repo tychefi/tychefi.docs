@@ -1,10 +1,10 @@
 # Tyche Fixed · 6M
 
-## Risk index
+## Health and risk indices
 
-**4.9 / 5**, an internal risk index supplied by TycheFi, near the higher-risk end. It is not a loss probability, drawdown estimate or independent rating, and is not calculated automatically from APR. Updated 2026-11-19.
+Current reference configuration: **health index 4.9 / 5**, corresponding to **risk index 0.1 / 5**. Both use a 0–5 internal scale: risk index = 5 − health index. Higher health expresses lower risk on this scale. The app reads the actual independent configuration from `tyche.vault`; on-chain values govern.
 
-The explanation covers liquidity, strategy and markets, custody and conversion, repayment and loss allocation, and contracts and networks. See the [risk index approach](https://github.com/tychefi/tychefi.docs/blob/main/RISK-METHODOLOGY.md).
+TycheFi supplies these indices. They are not independent ratings, loss probabilities, drawdown estimates or principal protection, and are not inferred from APR. The five explanatory factors are liquidity, strategy and markets, custody and conversion, repayment and loss allocation, and contracts and networks. See the [health and risk index approach](https://github.com/tychefi/tychefi.docs/blob/main/HEALTH-AND-RISK.md).
 
 ## Overview
 
@@ -14,7 +14,7 @@ This is a FLON Testnet product using test assets only. Subscription requires bot
 
 ## This product’s trading expertise and partnership
 
-According to the TycheFi team, this product’s strategy is executed by a **world-class arbitrage trader with 20 years of experience**, conducting long-running cross-market arbitrage between futures exchanges worldwide. The trader has worked with the team for **five years**. The team reports that the strategy's historical annualized returns have consistently remained at **10%–11%**.
+According to the TycheFi team, this product’s strategy is executed by a team led by a **world-class arbitrage trader with 20 years of experience**. The team conducts long-running cross-market arbitrage between futures exchanges worldwide. The trader has worked with the team for **five years**. The team reports that the strategy's historical annualized returns have consistently remained at **10%–11%**.
 
 This is team-provided strategy background and historical performance information, not this Vault's user net APR. Gross APR, management fees and user net APR follow the on-chain terms locked on subscription. Past performance does not indicate future returns.
 

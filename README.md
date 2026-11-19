@@ -21,9 +21,9 @@
 
 合约、权限、完整 PRD 及测试链部署证据继续存放于 [tyche.contracts/docs](https://github.com/tychefi/tyche.contracts/tree/main/docs)，不在本仓库重复维护实现说明。
 
-## 风险指数
+## 健康与风险指数
 
-各产品的 `risk` 字段维护内部指数（1.0～5.0，支持一位小数，未评估为 null）、提供方、更新时间和五个风险维度。前端以刻度和文字同时展示，详情可展开具体因素；定义见 [风险分级方法 / Rating approach](RISK-METHODOLOGY.md)。评级不表示亏损概率，也不按收益率自动生成。
+产品级 `assessment` 保存说明、五个维度和参考配置，具体指数由链上 `healthcfg` 读取。健康、风险均为 0～5，风险 = 5 − 健康；健康 4.9 对应风险 0.1。动态产品待评估，占位零不展示为零风险。文档参考值不作为应用的链上数据回退值。详见[健康与风险口径](HEALTH-AND-RISK.md)。
 
 ## 产品级策略团队
 

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "updatedAt": "2026-11-19",
   "products": [
     {
@@ -17,8 +17,7 @@
         "zh-CN": "products/zh-CN/flexible.md",
         "en": "products/en/flexible.md"
       },
-      "risk": {
-        "level": 4.9,
+      "assessment": {
         "provider": "TycheFi",
         "updatedAt": "2026-11-19",
         "summary": {
@@ -81,7 +80,12 @@
               "en": "This is a testnet product with contract, wallet and network risks; passing tests is not a security audit."
             }
           }
-        ]
+        ],
+        "reference": {
+          "rated": true,
+          "healthX100": 490,
+          "riskX100": 10
+        }
       }
     },
     {
@@ -99,8 +103,7 @@
         "zh-CN": "products/zh-CN/fixed-3m.md",
         "en": "products/en/fixed-3m.md"
       },
-      "risk": {
-        "level": 4.9,
+      "assessment": {
         "provider": "TycheFi",
         "updatedAt": "2026-11-19",
         "summary": {
@@ -163,7 +166,12 @@
               "en": "This is a testnet product with contract, wallet and network risks; passing tests is not a security audit."
             }
           }
-        ]
+        ],
+        "reference": {
+          "rated": true,
+          "healthX100": 490,
+          "riskX100": 10
+        }
       }
     },
     {
@@ -181,8 +189,7 @@
         "zh-CN": "products/zh-CN/fixed-6m.md",
         "en": "products/en/fixed-6m.md"
       },
-      "risk": {
-        "level": 4.9,
+      "assessment": {
         "provider": "TycheFi",
         "updatedAt": "2026-11-19",
         "summary": {
@@ -245,7 +252,12 @@
               "en": "This is a testnet product with contract, wallet and network risks; passing tests is not a security audit."
             }
           }
-        ]
+        ],
+        "reference": {
+          "rated": true,
+          "healthX100": 490,
+          "riskX100": 10
+        }
       }
     },
     {
@@ -263,8 +275,7 @@
         "zh-CN": "products/zh-CN/fixed-12m.md",
         "en": "products/en/fixed-12m.md"
       },
-      "risk": {
-        "level": 4.9,
+      "assessment": {
         "provider": "TycheFi",
         "updatedAt": "2026-11-19",
         "summary": {
@@ -327,7 +338,12 @@
               "en": "This is a testnet product with contract, wallet and network risks; passing tests is not a security audit."
             }
           }
-        ]
+        ],
+        "reference": {
+          "rated": true,
+          "healthX100": 490,
+          "riskX100": 10
+        }
       }
     },
     {
@@ -345,8 +361,7 @@
         "zh-CN": "products/zh-CN/dynamic.md",
         "en": "products/en/dynamic.md"
       },
-      "risk": {
-        "level": null,
+      "assessment": {
         "provider": "TycheFi",
         "updatedAt": "2026-11-19",
         "summary": {
@@ -409,7 +424,12 @@
               "en": "This is a testnet product with contract, wallet and network risks; passing tests is not a security audit."
             }
           }
-        ]
+        ],
+        "reference": {
+          "rated": false,
+          "healthX100": 0,
+          "riskX100": 0
+        }
       }
     }
   ]

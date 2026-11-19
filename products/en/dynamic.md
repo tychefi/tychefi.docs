@@ -1,10 +1,10 @@
 # Tyche Strategies
 
-## Risk index
+## Health and risk indices
 
-**Not rated**. No risk index has been supplied; this does not mean low risk. It is not a loss probability, drawdown estimate or independent rating, and is not calculated automatically from APR. Updated 2026-11-19.
+**Not rated**. Placeholder values do not mean zero risk or a health rating. Both use a 0–5 internal scale: risk index = 5 − health index. Higher health expresses lower risk on this scale. The app reads the actual independent configuration from `tyche.vault`; on-chain values govern.
 
-The explanation covers liquidity, strategy and markets, custody and conversion, repayment and loss allocation, and contracts and networks. See the [risk index approach](https://github.com/tychefi/tychefi.docs/blob/main/RISK-METHODOLOGY.md).
+TycheFi supplies these indices. They are not independent ratings, loss probabilities, drawdown estimates or principal protection, and are not inferred from APR. The five explanatory factors are liquidity, strategy and markets, custody and conversion, repayment and loss allocation, and contracts and networks. See the [health and risk index approach](https://github.com/tychefi/tychefi.docs/blob/main/HEALTH-AND-RISK.md).
 
 ## Availability
 
